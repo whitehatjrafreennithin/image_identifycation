@@ -1,0 +1,19 @@
+body {
+    background-color : pink;
+    color:black
+}
+
+.heading {
+    font-size: 22px;
+    width: 80%;
+}
+
+#camera {
+border: 2px dashedad black;
+width: 350px;
+height: 300px;
+}
+
+.list_of_objects, #result_object_name, #result_object_accuracy  {
+    color: blue;
+}
